@@ -51,7 +51,7 @@ Expression: "Bundle.entry.resource.ofType(PractitionerRole).practitioner.referen
 Instance: add5e7e2-0c0f-4a4a-bfff-f6f984fa7e3c
 InstanceOf: MedComCareCommunicationMessage
 Title: "New CareCommunication message."
-Description: "Example of a CareCommunication new message."
+Description: "Example of a CareCommunication new message"
 Usage: #example
 * type = $BundleType#message
 * timestamp = 2023-03-01T12:00:00+01:00
